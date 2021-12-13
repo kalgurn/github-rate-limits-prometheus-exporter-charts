@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   github-rate-limits-prometheus-exporter:
   - apiVersion: v2
+    appVersion: v1.0.4
+    created: "2021-12-13T14:48:01.319268+02:00"
+    description: A Helm chart for Github Rate Limits prometheus exporter
+    digest: fa11216a7b6193efe347455f6a3c49bd2eb7979f924230cc149b995d5872b4be
+    name: github-rate-limits-prometheus-exporter
+    type: application
+    urls:
+    - github-rate-limits-prometheus-exporter-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
     appVersion: 1.0.4
-    created: "2021-12-13T14:19:57.282711+02:00"
+    created: "2021-12-13T14:48:01.31856+02:00"
     description: A Helm chart for Github Rate Limits prometheus exporter
     digest: d3c647268b1da8ed4fb08d5266ce2deb03a695569a23fa0a57ce9dadb79a2806
     name: github-rate-limits-prometheus-exporter
@@ -13,7 +23,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2021-12-13T14:19:57.277137+02:00"
+    created: "2021-12-13T14:48:01.316122+02:00"
     description: A Helm chart for Github Rate Limits prometheus exporter
     digest: ba94c8976fd65bd932d3a82c0c9d18e9531db9c37b2a9e4bc7f27729474aa92e
     name: github-rate-limits-prometheus-exporter
@@ -21,4 +31,4 @@ entries:
     urls:
     - github-rate-limits-prometheus-exporter-0.1.6.tgz
     version: 0.1.6
-generated: "2021-12-13T14:19:57.274146+02:00"
+generated: "2021-12-13T14:48:01.31476+02:00"
