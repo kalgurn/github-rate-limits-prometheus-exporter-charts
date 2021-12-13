@@ -1,6 +1,6 @@
 # Github Rate Limit prometheus exporter helm chart
 
-This helm chart helps to install and configure [github-rate-limits-prometheus-exporter](../../README.md)
+This helm chart helps to install and configure [github-rate-limits-prometheus-exporter](https://github.com/kalgurn/github-rate-limits-prometheus-exporter)
 
 The helm chart itself is a simplified version of a generated helm chart for 'any' service. Values which can be configured can be viewed [here](values.yaml) 
 
